@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Súborov"
+    },
+    "jellystat": {
+        "songs": "Skladby",
+        "movies": "Filmy",
+        "episodes": "Epizódy",
+        "other": "Other"
     }
 }

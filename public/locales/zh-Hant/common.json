@@ -1042,5 +1042,11 @@
         "downloads": "下載",
         "uploads": "上傳",
         "sharedFiles": "檔案"
+    },
+    "jellystat": {
+        "songs": "曲目",
+        "movies": "電影",
+        "episodes": "集",
+        "other": "Other"
     }
 }

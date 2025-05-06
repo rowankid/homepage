@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "파일"
+    },
+    "jellystat": {
+        "songs": "음악",
+        "movies": "영화",
+        "episodes": "에피소드",
+        "other": "Other"
     }
 }

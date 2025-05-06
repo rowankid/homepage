@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Filer"
+    },
+    "jellystat": {
+        "songs": "Sange",
+        "movies": "Film",
+        "episodes": "Episoder",
+        "other": "Other"
     }
 }

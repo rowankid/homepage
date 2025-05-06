@@ -1042,5 +1042,11 @@
         "downloads": "Завантаження",
         "uploads": "Вивантаження",
         "sharedFiles": "Файли"
+    },
+    "jellystat": {
+        "songs": "Пісні",
+        "movies": "Фільми",
+        "episodes": "Епізоди",
+        "other": "Інше"
     }
 }

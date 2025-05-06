@@ -1042,5 +1042,11 @@
         "downloads": "Aflaaie",
         "uploads": "Oplaaie",
         "sharedFiles": "Lêers"
+    },
+    "jellystat": {
+        "songs": "Liedjies",
+        "movies": "Flieks",
+        "episodes": "Episodes",
+        "other": "Other"
     }
 }

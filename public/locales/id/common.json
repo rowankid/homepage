@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "File"
+    },
+    "jellystat": {
+        "songs": "Lagu",
+        "movies": "Film",
+        "episodes": "Episode",
+        "other": "Other"
     }
 }

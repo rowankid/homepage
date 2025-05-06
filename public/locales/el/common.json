@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Αρχεία"
+    },
+    "jellystat": {
+        "songs": "Τραγούδια",
+        "movies": "Ταινίες",
+        "episodes": "Επεισόδια",
+        "other": "Other"
     }
 }

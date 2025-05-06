@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Datoteke"
+    },
+    "jellystat": {
+        "songs": "Pjesme",
+        "movies": "Filmovi",
+        "episodes": "Epizode",
+        "other": "Other"
     }
 }

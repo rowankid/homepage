@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "ملفات"
+    },
+    "jellystat": {
+        "songs": "أغاني",
+        "movies": "أفلام",
+        "episodes": "حلقات",
+        "other": "Other"
     }
 }

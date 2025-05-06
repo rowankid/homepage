@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Files"
+    },
+    "jellystat": {
+        "songs": "Melodii",
+        "movies": "Filme",
+        "episodes": "Episoade",
+        "other": "Other"
     }
 }

@@ -1042,5 +1042,11 @@
         "downloads": "Téléchargements",
         "uploads": "Téléversements",
         "sharedFiles": "Fichiers"
+    },
+    "jellystat": {
+        "songs": "Chansons",
+        "movies": "Films",
+        "episodes": "Épisodes",
+        "other": "Autres"
     }
 }

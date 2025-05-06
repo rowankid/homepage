@@ -1042,5 +1042,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Fitxers"
+    },
+    "jellystat": {
+        "songs": "Cançons",
+        "movies": "Pel·lícules",
+        "episodes": "Episodis",
+        "other": "Other"
     }
 }
