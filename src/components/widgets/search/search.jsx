@@ -4,6 +4,8 @@ import { useTranslation } from "next-i18next";
 import { Fragment, useEffect, useState } from "react";
 import { BiLogoBing } from "react-icons/bi";
 import { FiSearch } from "react-icons/fi";
+import { SiDoubanread } from "react-icons/si";
+import { RiMovie2AiLine } from "react-icons/ri";
 import { SiBaidu, SiBrave, SiDuckduckgo, SiGoogle } from "react-icons/si";
 
 import ContainerForm from "../widget/container_form";
@@ -15,6 +17,18 @@ export const searchProviders = {
     url: "https://www.google.com/search?q=",
     suggestionUrl: "https://www.google.com/complete/search?client=chrome&q=",
     icon: SiGoogle,
+  },
+  book: {
+    name: "Doubanbook",
+    url: "https://search.douban.com/book/subject_search?cat=1001&search_text=",
+    suggestionUrl: "https://book.douban.com/j/subject_suggest?q=",
+    icon: SiDoubanread,
+  },
+  movie: {
+    name: "Doubanmovie",
+    url: "https://search.douban.com/movie/subject_search?search_text=",
+    suggestionUrl: "https://movie.douban.com/j/subject_suggest?q=",
+    icon: RiMovie2AiLine,
   },
   duckduckgo: {
     name: "DuckDuckGo",
