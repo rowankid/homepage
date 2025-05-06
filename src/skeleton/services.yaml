@@ -14,5 +14,11 @@
 
 - My Third Group:
     - My Third Service:
-        href: http://localhost/
+        # href: http://localhost/
         description: Homepage is 😎
+        widget:
+            type: calendar
+            firstDayInWeek: sunday # optional - defaults to monday
+            view: monthly # optional - possible values monthly, agenda
+            maxEvents: 10 # optional - defaults to 10
+            showTime: true # optional - show time for event happening today - defaults to false

@@ -6,7 +6,19 @@
     cpu: true
     memory: true
     disk: /
-
 - search:
-    provider: duckduckgo
+    provider: [bing, google, duckduckgo,book,movie]
     target: _blank
+- datetime:
+    text_size: 4xl #字体大小，从小到大有xs sm md xl 2xl 3xl 4xl 
+    format:
+      timeStyle: short #短时间格式 也可以试试long
+      dateStyle: short #短日期格式 也可以试试lon
+      hourCycle: h23 #时间循环格式，有11,12,23,24四种，例如h23就是0-23
+- openmeteo:
+    label: 北京 # optional
+    latitude: 39.8354
+    longitude: 116.1225
+    timezone: Asia/Shanghai # optional
+    units: metric # or imperial
+    cache: 5 # Time in minutes to cache API responses, to stay within limits
