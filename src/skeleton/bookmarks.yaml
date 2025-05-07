@@ -16,3 +16,15 @@
     - YouTube:
         - abbr: YT
           href: https://youtube.com/
+
+- 读书:
+    - 豆瓣读书:
+        - abbr: DB
+          description: 豆瓣读书
+          href: https://book.douban.com/
+    - Z-Library:
+        - abbr: ZL
+          href: https://z-library.sk/
+    - 首都图书馆:
+        - abbr: CL
+          href: https://primo.clcn.net.cn/primo_library/libweb/action/search.do
