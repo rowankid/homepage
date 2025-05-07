@@ -4,9 +4,8 @@ import { useTranslation } from "next-i18next";
 import { Fragment, useEffect, useState } from "react";
 import { BiLogoBing } from "react-icons/bi";
 import { FiSearch } from "react-icons/fi";
-import { SiDoubanread } from "react-icons/si";
 import { RiMovie2AiLine } from "react-icons/ri";
-import { SiBaidu, SiBrave, SiDuckduckgo, SiGoogle } from "react-icons/si";
+import { SiBaidu, SiBrave, SiDoubanread, SiDuckduckgo, SiGoogle } from "react-icons/si";
 
 import ContainerForm from "../widget/container_form";
 import Raw from "../widget/raw";
